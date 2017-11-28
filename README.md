@@ -10,6 +10,10 @@ Projet généré avec Angular CLI version 1.5.4.
 
 > encapsulation: ViewEncapsulation.None
 
+> form01 : méthode dans le HTML
+
+> form02 : méthode dans le controller
+
 ### Les types d’encapsulations
 
 Angular fournit trois possibilités d’encapsulations:
